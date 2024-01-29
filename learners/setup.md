@@ -4,6 +4,10 @@ title: Setup
 
 ## Installing Git
 
+If you're reading this then chances are good that Git is already installed on your laptop. 
+To check this quickly on Windows 10:  Start -> type 'git' -> look for 'Git Bash' in Apps.
+If you need Git installed then see below:
+
 Since several Carpentries lessons rely on Git, please see
 [this section of the workshop template][workshop-setup] for
 instructions on installing Git for various operating systems.
@@ -48,6 +52,7 @@ The GitHub documentation provides [more details about configuring 2FA](https://d
 
 ## Preparing Your Working Directory
 
+Open up Git Bash.
 We'll do our work in the `Desktop` folder so make sure you change your working directory to it with:
 
 ```bash
