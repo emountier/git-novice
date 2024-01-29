@@ -3,10 +3,12 @@
 
 # git-novice
 
-An introduction to version control for novices using Git (localised to my team :)).
-Please see [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/) for a rendered version of this material,
+An introduction to version control for novices using Git. Original source material from [Software Carpentry][swc]; this fork is an adaptation for my coworkers and is not endorsed by the original authors.
+
+# [Software Carpentry][swc] (upstream):
+Please see [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/) for a rendered version of the original source material,
 [the lesson template documentation][lesson-example]
-for instructions on formatting, building, and submitting material,
+for instructions on formatting, building, and submitting material to [
 or run `make` in this directory for a list of helpful commands.
 
 Maintainers:
@@ -29,3 +31,5 @@ Alumni maintainers:
 [gonzalez_ivan]: https://carpentries.org/instructors/#iglpdc
 [huang_daisie]: https://software-carpentry.org/team/#huang_daisie
 [sorbaro_mart]: https://carpentries.org/instructors/#martinosorb
+[carpentries-workbench]: https://carpentries.github.io/workbench/
+[swc]: https://software-carpentry.org/
